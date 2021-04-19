@@ -13,11 +13,13 @@ Stats and Capabilities-
 9. Image Conversion: Colored - Grayscale
 
 Execution Order-
+
 1.face_dataset.py
 2.training.py
 3.face_recognition.py
 
-Prerequisites :
+Prerequisites -
+
 1.Executing System have all requires libraries.
 
 2.Python 3.6.xx + version capable.
