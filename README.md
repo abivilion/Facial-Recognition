@@ -24,3 +24,8 @@ Prerequisites -
 
 2.Python 3.6.xx + version capable.
  
+ 
+Applications:
+1. AI Attendance System.
+2. Human Facial Identification.  
+
