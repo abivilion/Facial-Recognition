@@ -14,9 +14,9 @@ Stats and Capabilities-
 
 Execution Order-
 
-1.face_dataset.py
-2.training.py
-3.face_recognition.py
+1.face_dataset.py.
+2.training.py.
+3.face_recognition.py.
 
 Prerequisites -
 
