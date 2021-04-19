@@ -1,5 +1,5 @@
 # Facial-Recognition
-This is repository contains powerful Facial-Recognition model which detect and recognition face of humans only(tested on humans only).
+This repository contains powerful Facial-Recognition model which detect and recognition face of humans only(tested on humans only).
 
 Stats and Capabilities- 
 1. Accuracy: Amount and Quality Data Dependent
