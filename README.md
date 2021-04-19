@@ -26,6 +26,6 @@ Prerequisites -
  
  
 Applications:
-1. AI Attendance System.
+1. AI Attendance System. 
 2. Human Facial Identification.  
 
